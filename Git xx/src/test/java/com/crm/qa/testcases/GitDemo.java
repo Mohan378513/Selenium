@@ -8,6 +8,12 @@ public class GitDemo {
 	public void Demo1() {
 		
 		System.out.println("This is for demo Purpose");
+		
+		System.out.println("This is for demo Purpose1");
+		System.out.println("This is for demo Purpose2");
+		System.out.println("This is for demo Purpose3");
+		
+
 	}
 
 }
